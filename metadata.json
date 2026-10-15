@@ -1,0 +1,8 @@
+{
+  "name": "ECoRSC",
+  "description": "Official digital portal of East Coast Railway Shramik Congress (ECORSC), affiliated to NFIR \u0026 INTUC. Dedicated to railway employee rights, welfare, PNM representations, and services across East Coast Railway.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
