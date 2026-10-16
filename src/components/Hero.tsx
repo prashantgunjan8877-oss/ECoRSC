@@ -228,7 +228,7 @@ export const Hero: React.FC<HeroProps> = ({
                   </div>
                   <div className="flex justify-between items-center text-stone-300">
                     <span className="text-stone-400">ECORSC General Secretary:</span>
-                    <span className="font-semibold text-white">Ashok Kumar Mishra</span>
+                    <span className="font-semibold text-white">Ramesh Chandra Sahoo</span>
                   </div>
                   <div className="flex justify-between items-center text-stone-300">
                     <span className="text-stone-400">HQ Secretariat:</span>
@@ -258,7 +258,7 @@ export const Hero: React.FC<HeroProps> = ({
                   onClick={() => onNavigate('divisions')}
                   className="p-2.5 text-center bg-stone-700/60 hover:bg-stone-700 text-stone-200 rounded-lg transition-colors cursor-pointer border border-stone-600/50"
                 >
-                  {lang === 'hi' ? 'शाखा पदाधिकारी सूची' : 'Branch Directory'}
+                  {lang === 'hi' ? 'शाखा पदाधिकारी सूची' : 'Office Bearor'}
                 </button>
               </div>
             </div>
